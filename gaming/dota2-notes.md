@@ -1,4 +1,4 @@
-# Dota 2: Optimization & Competitive Notes ⚔️
+# Dota 2: Optimization & Competitive Notes 
 
 ### Performance Tuning (GTX 1650)
 I spent considerable time benchmarking Dota 2 on my current setup. 
