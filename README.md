@@ -6,7 +6,6 @@
 ### 趣味のリスト (Hobbies & Interests)
 - **Gaming**: Dota 2, Wuthering Waves (Lore analysis & Strategy notes).
 - **High-Fidelity Audio**: In-Ear Monitors (IEMs) and DAC optimization research.
-- **Japan Travel & Thrifting**: Exploring cultural landmarks in Osaka, Kyoto, and Nara.
 
 ---
 *Life is better when you're coding and exploring!*
