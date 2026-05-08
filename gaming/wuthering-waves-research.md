@@ -1,12 +1,9 @@
-# Wuthering Waves: Mechanics & Narrative Review 
+# Wuthering Waves: Technical Deep-Dive 
 
-### Narrative Exploration
-- **Lore Analysis**: Deep-diving into the world-building and character backstories to understand the evolving narrative structure of the game.
-- **Global Release Trends**: Monitoring the game's reception and technical performance across different regional servers.
+### Optimization Journey
+Since the launch of Wuthering Waves, I’ve been testing its performance stability. 
+- **Shader Compilation**: I noticed significant stuttering initially. My fix involved tweaking the local shader cache settings and ensuring the game runs on a high-performance power plan.
+- **Combat Feedback**: As a player who enjoys precision, I analyze frame data for "perfect dodges" and parry timings. The combat flow is impressive, but it demands zero input latency—which is why I'm so obsessed with my hardware latency.
 
-### Combat & Technical Mechanics
-- **Action Combat Mastery**: Studying frame data and animation canceling to maximize combat efficiency and character synergy.
-- **DirectX Optimization**: Testing different DirectX settings to ensure smooth shader compilation and prevent micro-stuttering during open-world exploration.
-
-### Goal
-Documenting the balance between high-fidelity visual storytelling and optimized technical performance in modern open-world RPGs.
+### Lore & World Building
+The narrative is dense, and I’m currently documenting the connection between character backstories and the world's "Tacet Fields" mechanics. It's more than just a gacha; it's a world-building study.
